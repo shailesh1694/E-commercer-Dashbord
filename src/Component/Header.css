@@ -1,0 +1,10 @@
+.nav-link{
+    color:white !important;
+}
+.bg-dark {
+    background-color: lightslategrey !important;
+}
+.btn-outline-success {
+    color: white !important;
+    border-color: white;
+}
